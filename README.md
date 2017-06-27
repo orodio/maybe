@@ -4,13 +4,13 @@
 
 ### Install
 
-```
+```sh
 yarn add @orodio/maybe
 ```
 
 ### Use
 
-```
+```javascript
 import {
   Just,
   Nothing,
